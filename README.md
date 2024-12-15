@@ -20,11 +20,11 @@ Performed a simple data wrangling to the datasets.
 * Import csv files of both BritishAirways review and Countries
 * Check null values for both dataframe
 * Remove rows that contain null values
-* Convert dataframe back to csv 
-Jupyter script: [Notebook]()
+* Convert dataframe back to csv  <br />
+Jupyter script: [Notebook](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/Data%20Cleaning.ipynb)
 Clean data: 
-* [ba_reviews_clean.csv]()
-* [countries_clean.csv]()
+* [ba_reviews_clean.csv](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/ba_reviews_clean.csv)
+* [countries_clean.csv](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/countries_clean.csv)
 ## 📊 Visualisation
 
 Creating a dashboard using Tableau. <br />
