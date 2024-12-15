@@ -21,8 +21,9 @@ Performed a simple data wrangling to the datasets.
 * Check null values for both dataframe
 * Remove rows that contain null values
 * Convert dataframe back to csv  <br />
-Jupyter script: [Notebook](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/Data%20Cleaning.ipynb)
-Clean data: 
+
+📍 Jupyter script: [Notebook](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/Data%20Cleaning.ipynb) <br />
+📍 Clean data: 
 * [ba_reviews_clean.csv](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/ba_reviews_clean.csv)
 * [countries_clean.csv](https://github.com/diamond-or/BritishAirways_Dashboard/blob/main/countries_clean.csv)
 ## 📊 Visualisation
