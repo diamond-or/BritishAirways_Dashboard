@@ -31,3 +31,5 @@ Performed a simple data wrangling to the datasets.
 Creating a dashboard using Tableau. <br />
 Tableau [Link](https://public.tableau.com/views/BritishAirwaysReview_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![BritishAirways_Reviews_Analysis](https://github.com/user-attachments/assets/e104e3a4-8506-4fb7-8b42-d0960be352a5)
+
